@@ -53,7 +53,7 @@ Clone this repository to your local machine to access the SQL scripts.
 
 2. Run the SQL Queries
 
-Run the provided SQL queries in your SQL client (e.g., MySQL, PostgreSQL) connected to your Credit_card dataset to analyze customer data.
+    Run the provided SQL queries in your SQL client (e.g., MySQL, PostgreSQL) connected to your Credit_card dataset to analyze customer data.
 
 3. Review the Output
 
