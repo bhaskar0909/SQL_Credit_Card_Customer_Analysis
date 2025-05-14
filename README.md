@@ -1,7 +1,7 @@
  
 # Project Title
 
-Credit Card Customers Analysis
+Credit Card Customers Analysis using excel,sql and power bi
 
 
 ## Project Overview
